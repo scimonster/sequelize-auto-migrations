@@ -1,3 +1,10 @@
+# List of changes from Scimonster fork
+- Indexes
+  - Handle "type" option = 'UNIQUE|FULLTEXT|SPATIAL'
+
+
+
+
 # sequelize-auto-migrations
 Migration generator &amp;&amp; runner for sequelize
 
